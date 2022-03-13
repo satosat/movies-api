@@ -19,6 +19,4 @@ const getConnection = () => {
     })
 }
 
-// const connection = mysql.createConnection("mysql://os63n68rny0n:pscale_pw_-_BKGEPUBZ6p7QBAQVzPxonwdAjMquhrOWc72IsCnkE@doxrmn4xabml.ap-southeast-2.psdb.cloud/movies?ssl={\"rejectUnauthorized\":true}")
-
 export default pool
